@@ -1,0 +1,22 @@
+.btn-New {
+  background-color: lightsteelblue;
+  padding: 3px;
+  border: none;
+  /* border-radius: 5px; */
+}
+
+.button-pos {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card_overflow {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* p.card_overflow:hover {
+  overflow: visible;
+  width: 100px;
+} */
