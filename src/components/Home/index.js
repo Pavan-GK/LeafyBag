@@ -77,7 +77,7 @@ const Home = ({ setOriginalData, getproddata }) => {
             className="btn btn-primary btn-dark ms-10"
             onClick={NumberOfProds > 10 ? addLessProducts : ""}
           >
-            Show Less
+            Show Less1
           </button>
         ) : (
           ""
